@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @papayakaja
 - 👀 I’m interested in knitting, coding, board games
-- 🌱 I’m currently learning mostly python
+- 🌱 I’m mostly into machine learning, python in general and SQL
 
 
 <!---
